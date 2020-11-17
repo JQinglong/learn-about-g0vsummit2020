@@ -1,5 +1,12 @@
 <template>
   <div class="homepage">
+    <h1>⭐︎ここは公式サイトではありません！！⭐︎</h1>
+    公式サイトは下記。<br>
+    <a href="https://summit.g0v.tw/2020/">公式サイト</a><br>
+    参加に向けて予習するために作りました。<br>
+    これも、公式サイトがOSSとして公開されているおかげです。<br>
+    <a href="https://github.com/g0v/summit2020">公式サイトのソース</a><br>
+
     <div class="landing flex justify-center">
       <img :src="require('~/assets/images/banner-2.png')">
     </div>
