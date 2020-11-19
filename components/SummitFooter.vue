@@ -11,8 +11,10 @@
           img(src="~/assets/images/icon-slack.svg" alt="Join g0v Slack")
         ext-link(to="https://twitter.com/g0vtw")
           img(src="~/assets/images/icon-twitter.svg" alt="g0v Twitter")
-        ext-link(to="https://github.com/g0v/summit2020")
+        ext-link(to="https://github.com/JQinglong/learn-about-g0vsummit2020")
           img(src="~/assets/images/icon-GitHub.svg" alt="Source Code")
+        ext-link(to="https://github.com/g0v/summit2020")
+          img(src="~/assets/images/icon-GitHub.svg" alt="本家Source Code")
         a(href="mailto:host@summit.g0v.tw")
           img(src="~/assets/images/icon-email.svg" alt="g0v Summit 2020 Email")
 </template>
