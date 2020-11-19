@@ -28,8 +28,12 @@ h2 + h3 {
 h1, h2 {
   color: $blue-1;
 }
-h3, h4, h5, h6 {
+h3, h5, h6 {
   color: $pink-1;
+}
+h4 {
+  background: blue;
+  color: white;
 }
 p {
 	font-size: 1pm;

@@ -6,6 +6,7 @@
     参加に向けて予習するために作りました。<br>
     これも、公式サイトがOSSとして公開されているおかげです。<br>
     <a href="https://github.com/g0v/summit2020">公式サイトのソース</a><br>
+    予習しながら得た情報は、【JayQ】として追記しています。
 
     <div class="landing flex justify-center">
       <img :src="require('~/assets/images/banner-2.png')">

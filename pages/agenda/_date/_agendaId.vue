@@ -34,6 +34,9 @@
         .detail__keyword.ttc.mv3.pv2(v-if="agenda.three_keywords")
           span.mr2 {{$t('keyword')}}
           | {{agenda.three_keywords}}
+        h4.ttc {{'【JayQ】'}}
+        rich-multi-line.gray(:text="agenda.jayq")
+        ext-link(:to="this.agenda.jayq_url || ''")
         .detail__people(v-if="speakers || moderator" :class="{'detail__people--mono': isMonoSpeaker}")
           summit-person(
             v-if="moderator"
