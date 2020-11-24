@@ -69,10 +69,12 @@
   },
   "5eddea12ba206b030d66a2ca": {
     "id": "5eddea12ba206b030d66a2ca",
-    "title": "「社群治理」這個不太一樣的坑",
+    "title": "【コミュニティガバナンスについての様々な経験】「社群治理」這個不太一樣的坑",
     "title_en": "Community govenance as a community project",
     "summary": "寫 code 填坑，大家都是「沒有人」，那接受訪問的時候呢？募款的時候呢？參加展覽、國際會議、管理 domain name、Fb 專頁的時候呢？辦 summit 的時候呢？從「去中心」到「多中心」，從《媒體政策》到《社群治理目錄》，從 OCF 國際交流到 g0v 國際交流，從共筆討論到「基礎松」，為什麼 g0v 社群要這麼麻煩，討論什麼社群治理？這些「治理」的大小事，能不能在其他地方找到共鳴？投稿者想分享自己的參與討論社群治理的經驗，也很希望能開啟更多討論。",
     "summary_en": "In g0v, “we are nobody.” How do “we” do interviews? Fundraising? Art exhibitions? International conferences? How do “we” manage domain names or g0v’s Facebook page?",
+    "jayq": "坑：穴→色々な穴に飛び込んでみた経験、という感じ？",
+    "jayq_url": "",
     "oral_language": "華語",
     "oral_languate_other": "",
     "format": "演講 （20 分鐘）Talk (20 min)",
@@ -4325,7 +4327,7 @@
   },
   "5f02d5a0e88a4948daf87fb9": {
     "id": "5f02d5a0e88a4948daf87fb9",
-    "title": "Project Lockdown: 運用政府在新冠肺炎時政策的數據來評估對人權與數位權的影響",
+    "title": "Project Lockdown: 【政府の新型コロナ対応政策データを利用した、人権とデジタル権利への影響の評価】運用政府在新冠肺炎時政策的數據來評估對人權與數位權的影響",
     "title_en": "Project Lockdown: Using data to assess the impact on human and digital rights as a result of Covid-19 related Government measures",
     "summary": "各地政府就新冠肺炎而實行的政策已經強烈地影響到人權與數位權。\nProject Lockdown提供了一個地圖式的平台以及開放API，讓人們可以探索並進一步了解，新冠肺炎政策隨著時間的變遷，對個別地區以及跨地區人權狀況所造成的影響。\n這場座談會將探索不同國家的政策造成的深遠後果、不同國家在政策施行上相同與相異之處、以及我們的平台如何精準地記錄下每個時間點政策的「快照」，以在肺炎之下起人權倡導、加強人權意識以及最終起到問責政府之效。針對人權與數位權，我們會點出那些出類拔萃的例子、並且比較各地從一夜之間嚴厲「封城」、到之後階段性的解封行動、以及當疫情再度爆發，不加思索地重新封鎖不同的做法",
     "summary_en": "Human and digital rights have been greatly impacted by the various Covid-19 related measures that governments around the globe have implemented. Project Lockdown provides a mapping platform and an open API to explore and better understand the effects on people's rights within a territory, and importantly across territories over time. This panel discussion explores the deep ramifications of government policies across populations, the differences and anomalies in implementations and how our tools provide precise, time-sensitive snapshots that can be used for advocacy and awareness-raising, and ultimately to hold government policy makers to account. In relation to human and digital rights, we will identify positive deviants and contrast the often stringent sudden 'lockdown' measures with the gradual phased approach to easing of measures, and subsequent knee-jerk re-implementations.",
